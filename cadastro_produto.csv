@@ -1,0 +1,501 @@
+Numero;Nome;Genero;Plataforma;Data;Preco
+1;Dataville;Aventura;PS;201610;130
+2;Red Betrayal;Aventura;NINTENDO;201702;180
+3;Red Betrayal;Aventura;PS;201702;180
+4;Burn of Heroes;Ação;XBOX;201708;140
+5;Silent Evil;Terror;PS;201409;110
+6;Fireshock;Ação;PS;201706;160
+7;God of Words;Ação;PS;201707;150
+8;Bullet Tales;Ação;PS;201512;90
+9;Anamnesis;Terror;XBOX;201507;110
+10;Dragonspace;Ação;PS;201407;80
+11;Everwatch;Ação;XBOX;201610;160
+12;Bullet Tales;Ação;PS;201512;90
+13;Assassins Deeds;Ação;XBOX;201410;100
+14;Starlight;Outros;PS;201708;150
+15;Voxelmaps;Outros;XBOX;201402;80
+16;Last Dawn;Terror;PS;201504;90
+17;Burn of Heroes;Ação;XBOX;201708;140
+18;Everwatch;Ação;PS;201610;160
+19;Dataville;Aventura;PC;201610;130
+20;Rails and Droids;Outros;PS;201607;170
+21;Voxelmaps;Outros;PS;201402;80
+22;Heroic Secrets;Aventura;PS;201410;90
+23;Zombies;Terror;NINTENDO;201605;100
+24;Soccer;Esportes;PS;201709;200
+25;Armored Dream;Ação;NINTENDO;201309;90
+26;Bullet Tales;Ação;PS;201512;90
+27;Jungle Island;Aventura;NINTENDO;201611;100
+28;Buildstate;Outros;PS;201609;150
+29;Soccer;Esportes;PS;201709;200
+30;Epic Canvas;Aventura;PS;201412;120
+31;Blockborne;Ação;XBOX;200501;100
+32;Starlight;Outros;XBOX;201708;150
+33;Armored Dream;Ação;NINTENDO;201309;90
+34;Assassins Deeds;Ação;XBOX;201410;100
+35;Fireshock;Ação;NINTENDO;201706;160
+36;Swords of Lies;Aventura;PS;201710;160
+37;Blockborne;Ação;PC;200501;100
+38;Chronomind;Aventura;NINTENDO;201410;120
+39;System Call;Terror;PS;201703;140
+40;Fear of the Darth;Terror;PS;201101;110
+41;Red Betrayal;Aventura;XBOX;201702;180
+42;Alone in the Hill;Terror;XBOX;201608;140
+43;Swords of Lies;Aventura;PS;201710;160
+44;Anamnesis;Terror;XBOX;201507;110
+45;Botcha;Esportes;PS;201405;90
+46;Everwatch;Ação;PC;201610;160
+47;Zombies;Ação;XBOX;201605;170
+48;Silent Evil;Terror;XBOX;201409;110
+49;Voiceless;Terror;PS;201505;90
+50;System Call;Terror;PS;201703;140
+51;Voiceless;Terror;NINTENDO;201505;90
+52;Just Walk;Outros;NINTENDO;201409;70
+53;Rails and Droids;Outros;XBOX;201607;170
+54;Zombies;Terror;NINTENDO;201605;100
+55;Curling;Esportes;PS;201011;70
+56;Voxelmaps;Outros;PS;201402;80
+57;Epic Canvas;Aventura;PS;201412;120
+58;Tactical Apocalypse;Ação;PC;201505;130
+59;The Watcher;Aventura;XBOX;201606;130
+60;Zombies;Ação;XBOX;201605;170
+61;Armored Dream;Ação;PC;201309;90
+62;Swords of Lies;Aventura;PS;201710;160
+63;Silent Evil;Terror;XBOX;201409;110
+64;Sports!;Esportes;XBOX;201408;80
+65;Bullet Tales;Ação;PS;201512;90
+66;Nerdrage;Ação;PS;200708;80
+67;Armored Dream;Ação;XBOX;201309;90
+68;Alone in the Hill;Terror;XBOX;201608;140
+69;Rails and Droids;Outros;NINTENDO;201607;170
+70;Buildstate;Outros;PS;201609;150
+71;Dragonspace;Ação;PC;201407;80
+72;Swords of Lies;Aventura;PS;201710;160
+73;Everwatch;Ação;XBOX;201610;160
+74;Soccer;Esportes;PS;201709;200
+75;Magicmist;Aventura;PS;201210;80
+76;Assassins Deeds;Ação;XBOX;201410;100
+77;The Gray Path;Aventura;PS;201412;120
+78;Jungle Island;Aventura;PS;201611;100
+79;Magicmist;Aventura;PS;201210;80
+80;Fear of the Darth;Terror;XBOX;201101;110
+81;Voxelmaps;Outros;PC;201402;80
+82;Botcha;Esportes;NINTENDO;201405;90
+83;Assassins Deeds;Ação;XBOX;201410;100
+84;Blockborne;Ação;PC;200501;100
+85;Buildstate;Outros;PS;201609;150
+86;Tactical Apocalypse;Ação;XBOX;201505;130
+87;Hellstorm;Ação;XBOX;201407;120
+88;Jungle Island;Aventura;PC;201611;100
+89;Assassins Deeds;Ação;XBOX;201410;100
+90;The Gray Path;Aventura;PS;201412;120
+91;Chronomind;Aventura;NINTENDO;201410;120
+92;Everwatch;Ação;PS;201610;160
+93;Red Betrayal;Aventura;XBOX;201702;180
+94;Assassins Deeds;Ação;XBOX;201410;100
+95;Jungle Island;Aventura;PS;201611;100
+96;Voiceless;Terror;PC;201505;90
+97;Dataville;Aventura;NINTENDO;201610;130
+98;Rails and Droids;Outros;PS;201607;170
+99;Red Betrayal;Aventura;NINTENDO;201702;180
+100;Heroic Secrets;Aventura;PS;201410;90
+101;Epic Canvas;Aventura;XBOX;201412;120
+102;Tactical Apocalypse;Ação;PS;201505;130
+103;Armored Dream;Ação;NINTENDO;201309;90
+104;Chronomind;Aventura;NINTENDO;201410;120
+105;The Gray Path;Aventura;PS;201412;120
+106;Hellstorm;Ação;XBOX;201407;120
+107;System Call;Terror;PS;201703;140
+108;Everwatch;Ação;PC;201610;160
+109;Dragonspace;Ação;XBOX;201407;80
+110;Last Dawn;Terror;PS;201504;90
+111;Fireshock;Ação;NINTENDO;201706;160
+112;Chronomind;Aventura;NINTENDO;201410;120
+113;Epic Canvas;Aventura;PS;201412;120
+114;Burn of Heroes;Ação;XBOX;201708;140
+115;Blockborne;Ação;XBOX;200501;100
+116;Everwatch;Ação;XBOX;201610;160
+117;Fear of the Darth;Terror;XBOX;201101;110
+118;The Watcher;Aventura;XBOX;201606;130
+119;Swords of Lies;Aventura;PS;201710;160
+120;Epic Canvas;Aventura;PS;201412;120
+121;Epic Canvas;Aventura;XBOX;201412;120
+122;Just Walk;Outros;NINTENDO;201409;70
+123;God of Words;Ação;PS;201707;150
+124;Dragonspace;Ação;PS;201407;80
+125;The Watcher;Aventura;XBOX;201606;130
+126;Fear of the Darth;Terror;PS;201101;110
+127;Heroic Secrets;Aventura;PS;201410;90
+128;Forgotten Echo;Aventura;XBOX;201411;100
+129;Dataville;Aventura;PS;201610;130
+130;Tactical Apocalypse;Ação;XBOX;201505;130
+131;Forgotten Echo;Aventura;PC;201411;100
+132;Starlight;Outros;XBOX;201708;150
+133;System Call;Terror;PS;201703;140
+134;Nerdrage;Ação;PS;200708;80
+135;Magicmist;Aventura;NINTENDO;201210;80
+136;Botcha;Esportes;XBOX;201405;90
+137;Zombies;Ação;XBOX;201605;170
+138;Jungle Island;Aventura;PS;201611;100
+139;Alone in the Hill;Terror;XBOX;201608;140
+140;Armored Dream;Ação;NINTENDO;201309;90
+141;Dataville;Aventura;NINTENDO;201610;130
+142;Forgotten Echo;Aventura;XBOX;201411;100
+143;Silent Evil;Terror;PS;201409;110
+144;Soccer;Esportes;PS;201709;200
+145;Dragonspace;Ação;PC;201407;80
+146;Armored Dream;Ação;XBOX;201309;90
+147;Soccer;Esportes;PS;201709;200
+148;Dataville;Aventura;PC;201610;130
+149;Silent Evil;Terror;NINTENDO;201409;110
+150;God of Words;Ação;XBOX;201707;150
+151;Nerdrage;Ação;NINTENDO;200708;80
+152;Alone in the Hill;Terror;XBOX;201608;140
+153;God of Words;Ação;XBOX;201707;150
+154;Chronomind;Aventura;NINTENDO;201410;120
+155;Forgotten Echo;Aventura;XBOX;201411;100
+156;Last Dawn;Terror;NINTENDO;201504;90
+157;Soccer;Esportes;PS;201709;200
+158;Epic Canvas;Aventura;PS;201412;120
+159;Armored Dream;Ação;XBOX;201309;90
+160;Anamnesis;Terror;XBOX;201507;110
+161;Soccer;Esportes;PS;201709;200
+162;Voxelmaps;Outros;XBOX;201402;80
+163;Fear of the Darth;Terror;NINTENDO;201101;110
+164;Soccer;Esportes;PS;201709;200
+165;Burn of Heroes;Ação;PC;201708;140
+166;Dataville;Aventura;XBOX;201610;130
+167;Voxelmaps;Outros;PS;201402;80
+168;God of Words;Ação;NINTENDO;201707;150
+169;Starlight;Outros;PS;201708;150
+170;Blockborne;Ação;PC;200501;100
+171;Epic Canvas;Aventura;PS;201412;120
+172;Epic Canvas;Aventura;NINTENDO;201412;120
+173;Chronomind;Aventura;NINTENDO;201410;120
+174;System Call;Terror;PS;201703;140
+175;Zombies;Terror;NINTENDO;201605;100
+176;Fear of the Darth;Terror;PC;201101;110
+177;Buildstate;Outros;PS;201609;150
+178;God of Words;Ação;PS;201707;150
+179;Armored Dream;Ação;XBOX;201309;90
+180;Fear of the Darth;Terror;NINTENDO;201101;110
+181;Dragonspace;Ação;NINTENDO;201407;80
+182;Fear of the Darth;Terror;XBOX;201101;110
+183;Soccer;Esportes;PS;;200
+184;Bioscape;Aventura;PS;201507;125
+185;Last Dawn;Terror;NINTENDO;201504;90
+186;Jungle Island;Aventura;XBOX;201611;100
+187;God of Words;Ação;PS;201707;150
+188;Buildstate;Outros;PS;201609;150
+189;Chronomind;Aventura;NINTENDO;201410;120
+190;Jungle Island;Aventura;NINTENDO;201611;100
+191;Hellstorm;Ação;XBOX;201407;120
+192;Anamnesis;Terror;XBOX;201507;110
+193;Epic Canvas;Aventura;PC;201412;120
+194;Dataville;Aventura;XBOX;201610;130
+195;The Watcher;Aventura;XBOX;201606;130
+196;Soccer;Esportes;PS;201709;200
+197;Tactical Apocalypse;Ação;PS;201505;130
+198;Curling;Esportes;PS;201011;70
+199;Buildstate;Outros;PS;201609;150
+200;Epic Canvas;Aventura;XBOX;201412;120
+201;Jungle Island;Aventura;XBOX;201611;100
+202;The Watcher;Aventura;XBOX;201606;130
+203;Dataville;Aventura;NINTENDO;201610;130
+204;Last Dawn;Terror;PS;201504;90
+205;Buildstate;Outros;PS;201609;150
+206;Epic Canvas;Aventura;PS;201412;120
+207;Hellstorm;Ação;XBOX;201407;120
+208;Zombies;Ação;XBOX;201605;170
+209;Fireshock;Ação;NINTENDO;201706;160
+210;Botcha;Esportes;XBOX;201405;90
+211;Blockborne;Ação;PS;200501;100
+212;Soccer;Esportes;PS;201709;200
+213;Voxelmaps;Outros;PC;201402;80
+214;Fear of the Darth;Terror;PC;201101;110
+215;The Watcher;Aventura;XBOX;201606;130
+216;Sports!;Esportes;PC;201408;80
+217;Heroic Secrets;Aventura;PS;201410;90
+218;Tactical Apocalypse;Ação;NINTENDO;201505;130
+219;Magicmist;Aventura;XBOX;201210;80
+220;Swords of Lies;Aventura;PS;201710;160
+221;Swords of Lies;Aventura;PS;201710;160
+222;Last Dawn;Terror;XBOX;201504;90
+223;Chronomind;Aventura;NINTENDO;201410;120
+224;Last Dawn;Terror;PS;201504;90
+225;Magicmist;Aventura;PS;201210;80
+226;Voiceless;Terror;XBOX;201505;90
+227;Fireshock;Ação;PS;201706;160
+228;Bullet Tales;Ação;PS;201512;90
+229;Red Betrayal;Aventura;XBOX;201702;180
+230;Just Walk;Outros;NINTENDO;201409;70
+231;Anamnesis;Terror;XBOX;201507;110
+232;Bullet Tales;Ação;PS;201512;90
+233;Buildstate;Outros;PS;201609;150
+234;Swords of Lies;Aventura;PS;201710;160
+235;System Call;Terror;PS;201703;140
+236;Sports!;Esportes;PS;201408;80
+237;God of Words;Ação;PS;201707;150
+238;Burn of Heroes;Ação;XBOX;201708;140
+239;Swords of Lies;Aventura;PS;201710;160
+240;Bioscape;Aventura;XBOX;201507;125
+241;Dataville;Aventura;PS;201610;130
+242;The Gray Path;Aventura;PS;201412;120
+243;Curling;Esportes;NINTENDO;201011;70
+244;Soccer;Esportes;PS;201709;200
+245;Buildstate;Outros;PS;201609;150
+246;Botcha;Esportes;PC;201405;90
+247;Rails and Droids;Outros;PS;201607;170
+248;Starlight;Outros;XBOX;201708;150
+249;Blockborne;Ação;PS;200501;100
+250;God of Words;Ação;PS;201707;150
+251;Silent Evil;Terror;XBOX;201409;110
+252;Buildstate;Outros;PS;201609;150
+253;Starlight;Outros;NINTENDO;201708;150
+254;System Call;Terror;PS;201703;140
+255;Dataville;Aventura;PS;201610;130
+256;Fireshock;Ação;XBOX;201706;160
+257;Tactical Apocalypse;Ação;PS;201505;130
+258;Epic Canvas;Aventura;XBOX;201412;120
+259;Swords of Lies;Aventura;PS;201710;160
+260;Fear of the Darth;Terror;XBOX;201101;110
+261;Fireshock;Ação;PS;201706;160
+262;Forgotten Echo;Aventura;PS;201411;100
+263;Red Betrayal;Aventura;PS;201702;180
+264;Voiceless;Terror;NINTENDO;201505;90
+265;Epic Canvas;Aventura;NINTENDO;201412;120
+266;Buildstate;Outros;PS;201609;150
+267;Sports!;Esportes;PS;201408;80
+268;Soccer;Esportes;PS;201709;200
+269;Forgotten Echo;Aventura;PS;;100
+270;Magicmist;Aventura;PC;201210;80
+271;Bioscape;Aventura;PC;201507;125
+272;Curling;Esportes;XBOX;201011;70
+273;Assassins Deeds;Ação;XBOX;201410;100
+274;Buildstate;Outros;PS;201609;150
+275;Botcha;Esportes;XBOX;201405;90
+276;Silent Evil;Terror;PS;201409;110
+277;Zombies;Terror;NINTENDO;201605;100
+278;Epic Canvas;Aventura;PS;201412;120
+279;Dragonspace;Ação;PS;201407;80
+280;Starlight;Outros;PC;201708;150
+281;Zombies;Ação;XBOX;201605;170
+282;Everwatch;Ação;PS;201610;160
+283;Rails and Droids;Outros;NINTENDO;201607;170
+284;Zombies;Ação;XBOX;201605;170
+285;Burn of Heroes;Ação;PC;201708;140
+286;Burn of Heroes;Ação;NINTENDO;201708;140
+287;Burn of Heroes;Ação;XBOX;201708;140
+288;Just Walk;Outros;XBOX;201409;70
+289;Just Walk;Outros;NINTENDO;201409;70
+290;Blockborne;Ação;PS;200501;100
+291;Silent Evil;Terror;PC;201409;110
+292;Dragonspace;Ação;XBOX;201407;80
+293;Bioscape;Aventura;PC;201507;125
+294;Last Dawn;Terror;NINTENDO;201504;90
+295;Curling;Esportes;PS;201011;70
+296;Armored Dream;Ação;NINTENDO;201309;90
+297;Hellstorm;Ação;XBOX;201407;120
+298;Curling;Esportes;PS;201011;70
+299;Hellstorm;Ação;XBOX;201407;120
+300;Voxelmaps;Outros;XBOX;201402;80
+301;Tactical Apocalypse;Ação;XBOX;201505;130
+302;Epic Canvas;Aventura;PS;201412;120
+303;Fireshock;Ação;PS;201706;160
+304;Rails and Droids;Outros;PS;201607;170
+305;Curling;Esportes;NINTENDO;201011;70
+306;Armored Dream;Ação;XBOX;201309;90
+307;Dataville;Aventura;PS;201610;130
+308;Soccer;Esportes;PS;201709;200
+309;Burn of Heroes;Ação;XBOX;201708;140
+310;Rails and Droids;Outros;XBOX;201607;170
+311;Dataville;Aventura;XBOX;201610;130
+312;Soccer;Esportes;PS;201709;200
+313;Starlight;Outros;PC;201708;150
+314;Zombies;Terror;NINTENDO;201605;100
+315;Fear of the Darth;Terror;PC;201101;110
+316;Sports!;Esportes;PC;201408;80
+317;Swords of Lies;Aventura;PS;201710;160
+318;Buildstate;Outros;PS;201609;150
+319;Dataville;Aventura;PS;201610;130
+320;Fireshock;Ação;XBOX;201706;160
+321;Swords of Lies;Aventura;PS;201710;160
+322;Hellstorm;Ação;XBOX;201407;120
+323;Forgotten Echo;Aventura;PC;201411;100
+324;Rails and Droids;Outros;PC;201607;170
+325;Zombies;Ação;XBOX;201605;170
+326;Dragonspace;Ação;PS;201407;80
+327;Epic Canvas;Aventura;XBOX;201412;120
+328;Swords of Lies;Aventura;PS;201710;160
+329;Anamnesis;Terror;XBOX;201507;110
+330;Voiceless;Terror;XBOX;201505;90
+331;Red Betrayal;Aventura;NINTENDO;201702;180
+332;Jungle Island;Aventura;XBOX;201611;100
+333;Blockborne;Ação;XBOX;200501;100
+334;Magicmist;Aventura;XBOX;201210;80
+335;Hellstorm;Ação;XBOX;201407;120
+336;Burn of Heroes;Ação;NINTENDO;201708;140
+337;Everwatch;Ação;XBOX;201610;160
+338;Blockborne;Ação;XBOX;200501;100
+339;Swords of Lies;Aventura;PS;201710;160
+340;Bioscape;Aventura;PS;201507;125
+341;Anamnesis;Terror;XBOX;201507;110
+342;Magicmist;Aventura;NINTENDO;201210;80
+343;God of Words;Ação;XBOX;201707;150
+344;The Watcher;Aventura;XBOX;201606;130
+345;Armored Dream;Ação;PS;201309;90
+346;Hellstorm;Ação;XBOX;201407;120
+347;Voxelmaps;Outros;XBOX;201402;80
+348;Buildstate;Outros;PS;201609;150
+349;Anamnesis;Terror;XBOX;201507;110
+350;Dragonspace;Ação;PS;201407;80
+351;Tactical Apocalypse;Ação;XBOX;201505;130
+352;Heroic Secrets;Aventura;PS;201410;90
+353;Red Betrayal;Aventura;PC;201702;180
+354;Sports!;Esportes;PS;201408;80
+355;Bullet Tales;Ação;PS;201512;90
+356;Rails and Droids;Outros;XBOX;201607;170
+357;Jungle Island;Aventura;NINTENDO;201611;100
+358;Heroic Secrets;Aventura;PS;201410;90
+359;The Watcher;Aventura;XBOX;201606;130
+360;Soccer;Esportes;PS;201709;200
+361;Starlight;Outros;PS;201708;150
+362;Bullet Tales;Ação;PS;201512;90
+363;Assassins Deeds;Ação;XBOX;201410;100
+364;Silent Evil;Terror;PS;201409;110
+365;Heroic Secrets;Aventura;PS;201410;90
+366;Buildstate;Outros;PS;201609;150
+367;System Call;Terror;PS;201703;140
+368;The Watcher;Aventura;XBOX;201606;130
+369;Heroic Secrets;Aventura;PS;201410;90
+370;Swords of Lies;Aventura;PS;201710;160
+371;Tactical Apocalypse;Ação;XBOX;201505;130
+372;Nerdrage;Ação;PS;200708;80
+373;Swords of Lies;Aventura;PS;201710;160
+374;Heroic Secrets;Aventura;PS;201410;90
+375;God of Words;Ação;PC;201707;150
+376;Just Walk;Outros;XBOX;201409;70
+377;Nerdrage;Ação;XBOX;200708;80
+378;Dataville;Aventura;PC;201610;130
+379;Anamnesis;Terror;XBOX;201507;110
+380;Everwatch;Ação;PS;201610;160
+381;Swords of Lies;Aventura;PS;201710;160
+382;Soccer;Esportes;PS;201709;200
+383;System Call;Terror;PS;201703;140
+384;Fireshock;Ação;PC;201706;160
+385;Heroic Secrets;Aventura;PS;201410;90
+386;Red Betrayal;Aventura;PS;201702;180
+387;Assassins Deeds;Ação;XBOX;201410;100
+388;Last Dawn;Terror;XBOX;201504;90
+389;Epic Canvas;Aventura;NINTENDO;201412;120
+390;Red Betrayal;Aventura;PC;201702;180
+391;Soccer;Esportes;PS;201709;200
+392;Burn of Heroes;Ação;PC;201708;140
+393;Anamnesis;Terror;XBOX;201507;110
+394;Swords of Lies;Aventura;PS;201710;160
+395;Buildstate;Outros;PS;201609;150
+396;God of Words;Ação;PS;201707;150
+397;God of Words;Ação;PS;201707;150
+398;Red Betrayal;Aventura;PS;201702;180
+399;Burn of Heroes;Ação;NINTENDO;201708;140
+400;Heroic Secrets;Aventura;PS;201410;90
+401;Just Walk;Outros;NINTENDO;201409;70
+402;Buildstate;Outros;PS;201609;150
+403;Fireshock;Ação;NINTENDO;;160
+404;Voiceless;Terror;XBOX;201505;90
+405;Alone in the Hill;Terror;XBOX;201608;140
+406;Soccer;Esportes;PS;201709;200
+407;Swords of Lies;Aventura;PS;201710;160
+408;Everwatch;Ação;XBOX;201610;160
+409;Voxelmaps;Outros;PS;201402;80
+410;Zombies;Terror;NINTENDO;201605;100
+411;Tactical Apocalypse;Ação;PC;201505;130
+412;Armored Dream;Ação;NINTENDO;201309;90
+413;Epic Canvas;Aventura;PS;201412;120
+414;Magicmist;Aventura;XBOX;201210;80
+415;Tactical Apocalypse;Ação;PS;201505;130
+416;The Gray Path;Aventura;PS;201412;120
+417;Dragonspace;Ação;PS;201407;80
+418;The Watcher;Aventura;XBOX;201606;130
+419;Rails and Droids;Outros;PS;201607;170
+420;Dataville;Aventura;PS;201610;130
+421;Burn of Heroes;Ação;PS;201708;140
+422;Rails and Droids;Outros;PS;201607;170
+423;Tactical Apocalypse;Ação;XBOX;201505;130
+424;Zombies;Ação;XBOX;201605;170
+425;Chronomind;Aventura;NINTENDO;201410;120
+426;Alone in the Hill;Terror;XBOX;201608;140
+427;Voxelmaps;Outros;XBOX;201402;80
+428;Nerdrage;Ação;XBOX;200708;80
+429;Silent Evil;Terror;XBOX;201409;110
+430;Burn of Heroes;Ação;PC;201708;140
+431;Last Dawn;Terror;PC;201504;90
+432;Alone in the Hill;Terror;XBOX;201608;140
+433;Jungle Island;Aventura;NINTENDO;201611;100
+434;Botcha;Esportes;PS;201405;90
+435;God of Words;Ação;PS;201707;150
+436;Soccer;Esportes;PS;201709;200
+437;Sports!;Esportes;PS;201408;80
+438;God of Words;Ação;XBOX;201707;150
+439;System Call;Terror;PS;201703;140
+440;Epic Canvas;Aventura;XBOX;201412;120
+441;Zombies;Terror;NINTENDO;201605;100
+442;Assassins Deeds;Ação;XBOX;201410;100
+443;Blockborne;Ação;XBOX;200501;100
+444;Heroic Secrets;Aventura;PS;201410;90
+445;Red Betrayal;Aventura;XBOX;201702;180
+446;Bullet Tales;Ação;PS;201512;90
+447;Silent Evil;Terror;PC;201409;110
+448;Burn of Heroes;Ação;NINTENDO;201708;140
+449;Hellstorm;Ação;XBOX;201407;120
+450;Buildstate;Outros;PS;201609;150
+451;Voxelmaps;Outros;PS;201402;80
+452;Buildstate;Outros;PS;201609;150
+453;Silent Evil;Terror;XBOX;201409;110
+454;Soccer;Esportes;PS;201709;200
+455;The Watcher;Aventura;XBOX;201606;130
+456;Blockborne;Ação;NINTENDO;200501;100
+457;Armored Dream;Ação;PS;201309;90
+458;Buildstate;Outros;PS;201609;150
+459;Just Walk;Outros;PS;201409;70
+460;Bullet Tales;Ação;PS;201512;90
+461;Rails and Droids;Outros;PS;201607;170
+462;Jungle Island;Aventura;PC;201611;100
+463;Soccer;Esportes;PS;201709;200
+464;Red Betrayal;Aventura;XBOX;201702;180
+465;Silent Evil;Terror;NINTENDO;201409;110
+466;Chronomind;Aventura;NINTENDO;201410;120
+467;God of Words;Ação;PC;201707;150
+468;Soccer;Esportes;PS;201709;200
+469;God of Words;Ação;XBOX;201707;150
+470;Voiceless;Terror;PC;201505;90
+471;Armored Dream;Ação;XBOX;201309;90
+472;Dragonspace;Ação;PS;201407;80
+473;Anamnesis;Terror;XBOX;201507;110
+474;God of Words;Ação;PC;201707;150
+475;Blockborne;Ação;PS;200501;100
+476;Fireshock;Ação;PS;201706;160
+477;Silent Evil;Terror;PS;201409;110
+478;Soccer;Esportes;PS;201709;200
+479;Nerdrage;Ação;XBOX;200708;80
+480;Silent Evil;Terror;PS;201409;110
+481;Bioscape;Aventura;PC;201507;125
+482;The Gray Path;Aventura;PS;201412;120
+483;Chronomind;Aventura;NINTENDO;201410;120
+484;Zombies;Ação;XBOX;201605;170
+485;Sports!;Esportes;XBOX;201408;80
+486;Armored Dream;Ação;NINTENDO;201309;90
+487;Fear of the Darth;Terror;XBOX;201101;110
+488;Tactical Apocalypse;Ação;XBOX;201505;130
+489;Burn of Heroes;Ação;PS;201708;140
+490;Swords of Lies;Aventura;PS;201710;160
+491;The Gray Path;Aventura;PS;201412;120
+492;Zombies;Terror;NINTENDO;201605;100
+493;Dataville;Aventura;NINTENDO;201610;130
+494;Rails and Droids;Outros;XBOX;201607;170
+495;Curling;Esportes;NINTENDO;201011;70
+496;Fear of the Darth;Terror;XBOX;201101;110
+497;Magicmist;Aventura;PC;201210;80
+498;Forgotten Echo;Aventura;PS;201411;100
+499;Blockborne;Ação;PS;200501;100
+500;Voxelmaps;Outros;XBOX;201402;80
